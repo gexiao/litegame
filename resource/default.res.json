@@ -1,0 +1,132 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,bg_image,egret_icon_png,description_json,demon/skeleton.json,demon/texture.json,demon/texture.png,deer/skeleton.json,deer/texture.json,deer/texture.png",
+			"name": "preload"
+		},
+		{
+			"keys": "bird/skeleton.json,bird/texture.json,bird/texture.png",
+			"name": "bird"
+		},
+		{
+			"keys": "robot/skeleton.json,robot/texture.json,robot/texture.png",
+			"name": "robot"
+		},
+		{
+			"keys": "dragon/skeleton.json,dragon/texture.json,dragon/texture.png",
+			"name": "dragon"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/image/bg.jpg",
+			"type": "image",
+			"name": "bg_image"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bird/skeleton.json",
+			"type": "json",
+			"name": "bird/skeleton.json"
+		},
+		{
+			"url": "assets/bird/texture.json",
+			"type": "json",
+			"name": "bird/texture.json"
+		},
+		{
+			"url": "assets/bird/texture.png",
+			"type": "image",
+			"name": "bird/texture.png"
+		},
+		{
+			"url": "assets/robot/skeleton.json",
+			"type": "json",
+			"name": "robot/skeleton.json"
+		},
+		{
+			"url": "assets/robot/texture.json",
+			"type": "json",
+			"name": "robot/texture.json"
+		},
+		{
+			"url": "assets/robot/texture.png",
+			"type": "image",
+			"name": "robot/texture.png"
+		},
+		{
+			"url": "assets/dragon/skeleton.json",
+			"type": "json",
+			"name": "dragon/skeleton.json"
+		},
+		{
+			"url": "assets/dragon/texture.json",
+			"type": "json",
+			"name": "dragon/texture.json"
+		},
+		{
+			"url": "assets/dragon/texture.png",
+			"type": "image",
+			"name": "dragon/texture.png"
+		},
+		{
+			"url": "assets/wild/skeleton.json",
+			"type": "json",
+			"name": "wild/skeleton.json"
+		},
+		{
+			"url": "assets/wild/texture.json",
+			"type": "json",
+			"name": "wild/texture.json"
+		},
+		{
+			"url": "assets/wild/texture.png",
+			"type": "image",
+			"name": "wild/texture.png"
+		},
+		{
+			"url": "assets/demon/skeleton.json",
+			"type": "json",
+			"name": "demon/skeleton.json"
+		},
+		{
+			"url": "assets/demon/texture.json",
+			"type": "json",
+			"name": "demon/texture.json"
+		},
+		{
+			"url": "assets/demon/texture.png",
+			"type": "image",
+			"name": "demon/texture.png"
+		},
+		{
+			"url": "assets/deer/skeleton.json",
+			"type": "json",
+			"name": "deer/skeleton.json"
+		},
+		{
+			"url": "assets/deer/texture.json",
+			"type": "json",
+			"name": "deer/texture.json"
+		},
+		{
+			"url": "assets/deer/texture.png",
+			"type": "image",
+			"name": "deer/texture.png"
+		}
+	]
+}
